@@ -4,8 +4,9 @@
 
 ### Projets à la une
 
-* **NAND to Game (Début : Fin juin 2026)**<br>
-  Projet personnel majeur inspiré de *Nand to Tetris*. L'objectif est de reconstruire les fondations d'un système informatique en partant des portes logiques jusqu'à la couche logicielle.
+* **NAND to Game**<br>
+  Projet personnel majeur inspiré de *Nand to Tetris*. L'objectif est de reconstruire les fondations d'un système informatique en partant des portes logiques jusqu'à la couche logicielle.<br>
+  [Le dépôt](https://github.com/Jonas0o0/theoretical-computer)
 
 * **Proxmox-GitOps**<br>
   Projet d'infrastructure en binôme. Mise en place d'une approche GitOps pour l'administration et le provisionnement automatisé d'un environnement Proxmox (Terraform, Ansible, CI/CD).<br>
