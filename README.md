@@ -15,4 +15,4 @@
 ### Stack Technique Principale
 
 * **Infra & Déploiement :** Proxmox, Terraform, Docker, Ansible.
-* **Développement :** Java, TDD.
+* **Développement :** Java, C, C#, Rust, JS, TS, TDD.
